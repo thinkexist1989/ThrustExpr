@@ -1,0 +1,39 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "Visual C Sample"=".\Visual C Sample.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/DAQ FT Visual C Sample", ZXCAAAAA
+    i:\engineering\software\ft\daq ft customer software\visual c sample
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+    begin source code control
+    "$/FT/Customer/DAQ FT/DAQmx/DAQMx Visual C Sample", KOXAAAAA
+    .
+    end source code control
+}}}
+
+Package=<3>
+{{{
+    {D9BDC6A6-D927-11D1-9F29-00805F7F02C4}
+    {F262B585-48A4-11D6-8423-00B0D0CBE16A}
+}}}
+
+###############################################################################
+
